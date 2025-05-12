@@ -4,6 +4,17 @@
 
 minimal dark mode for labwc
 
+as a keyboard focused user i have made a keybind scheme for easy memorization and comfort
+
+CTRL + Arrows
+     this controls the window snapping maintaining gaps
+
+Super + Arrows/1-9
+     this controls workspace navigations
+
+Super + Shift + 1-9
+      controls send to workspace {x}
+
 you will need these things:
 ```
 yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo swww nwg-look materia-gtk-theme clarity-icon-theme mpg123 openbox-themes dunst xfce-polkit
