@@ -1,0 +1,142 @@
+[manager]
+
+cwd = { fg = "#b4b4b4" }
+
+# Hovered
+hovered = { fg = "#191919", bg = "#b4b4b4", bold = true }
+preview_hovered = { underline = false }
+
+# Find
+find_keyword = { fg = "#b4b4b4", italic = true }
+find_position = { fg = "#b4b4b4", bg = "reset", italic = true }
+
+# Marker
+marker_selected = { fg = "#191919", bg = "#b4b4b4" }
+marker_copied = { fg = "#191919", bg = "#b4b4b4" }
+marker_cut = { fg = "#191919", bg = "#b4b4b4" }
+
+# Tab
+tab_active = { fg = "#b4b4b4", bg = "#191919" }
+tab_inactive = { fg = "#191919", bg = "#b4b4b4" }
+tab_width = 1
+
+# Border
+border_symbol = " "
+border_style = { fg = "#ffffff" }
+
+# : }}}
+
+# Preview Position
+
+folder_offset = [2, 0, 2, 0]
+preview_offset = [4, 4, 4, 4]
+
+
+# : Status {{{
+
+[status]
+separator_open = ""
+separator_close = ""
+separator_style = { fg = "#b4b4b4", bg = "#191919" }
+
+# Mode
+mode_normal = { fg = "#b4b4b4", bg = "#191919", bold = true }
+mode_select = { fg = "#b4b4b4", bg = "#191919", bold = true }
+mode_unset = { fg = "#b4b4b4", bg = "#191919", bold = true }
+# Progress
+progress_label = { fg = "#b4b4b4", bold = true }
+progress_normal = { fg = "#b4b4b4", bg = "#191919" }
+progress_error = { fg = "#b4b4b4", bg = "#191919" }
+
+# Permissions
+permissions_t = { fg = "#b4b4b4" }
+permissions_r = { fg = "#b4b4b4" }
+permissions_w = { fg = "#b4b4b4" }
+permissions_x = { fg = "#b4b4b4" }
+permissions_s = { fg = "#b4b4b4" }
+
+# : }}}
+
+
+# : Input {{{
+
+[input]
+border = { fg = "#b4b4b4" }
+title = {}
+value = {}
+selected = { reversed = true }
+
+# : }}}
+
+
+# : Select {{{
+
+[select]
+border = { fg = "#b4b4b4" }
+active = { fg = "#b4b4b4" }
+inactive = {}
+
+# : }}}
+
+
+# : Tasks {{{
+
+[tasks]
+border = { fg = "#b4b4b4" }
+title = {}
+hovered = { underline = true }
+
+# : }}}
+
+
+# : Which {{{
+
+[which]
+mask = { bg = "#000000" }
+cand = { fg = "#94e2d5" }
+rest = { fg = "#9399b2" }
+desc = { fg = "#f5c2e7" }
+separator = "  "
+separator_style = { fg = "#f5c2e7" }
+
+# : }}}
+
+
+# : Help {{{
+
+[help]
+on = { fg = "#b4b4b4" }
+exec = { fg = "#b4b4b4" }
+desc = { fg = "#b4b4b4" }
+hovered = { bg = "#b4b4b4", bold = true }
+footer = { fg = "#b4b4b4", bg = "#191919" }
+
+# : }}}
+
+
+# : File-specific styles {{{
+
+[filetype]
+
+rules = [
+	# Images
+	{ mime = "image/*", fg = "#b4b4b4" },
+
+	# Videos
+	{ mime = "video/*", fg = "#b4b4b4" },
+	{ mime = "audio/*", fg = "#b4b4b4" },
+
+	# Archives
+	{ mime = "application/zip", fg = "#b4b4b4" },
+	{ mime = "application/gzip", fg = "#b4b4b4" },
+	{ mime = "application/x-tar", fg = "#b4b4b4" },
+	{ mime = "application/x-bzip", fg = "#b4b4b4" },
+	{ mime = "application/x-bzip2", fg = "#b4b4b4" },
+	{ mime = "application/x-7z-compressed", fg = "#b4b4b4" },
+	{ mime = "application/x-rar", fg = "#b4b4b4" },
+
+	# Fallback
+	{ name = "*", fg = "#b4b4b4" },
+	{ name = "*/", fg = "#b4b4b4" },
+]
+
