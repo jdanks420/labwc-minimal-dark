@@ -1,4 +1,7 @@
 # labwc-minimal-dark
+
+[NOTICE THIS CONFIG UPLOAD IS A WORK IN PROGRESS IVE HAD TO EDIT AND HIDE SOME THINGS]
+
 minimal dark mode for labwc
 
 you will need these things:
