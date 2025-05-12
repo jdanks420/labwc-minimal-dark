@@ -245,9 +245,6 @@
     <keybind key="W-Space">
       <action name="Execute" command="ghostty"/>
     </keybind>
-    <keybind key="A-w">
-      <action name="Execute" command="~/.config/scripts/swwwswitch.sh"/>
-    </keybind>
     <keybind key="W-m">
       <action name="Execute" command="~/.config/scripts/rofimusic.sh"/>
     </keybind>
@@ -256,9 +253,6 @@
     </keybind>
     <keybind key="A-s">
       <action name="Execute" command="~/.config/scripts/startpage.sh"/>
-    </keybind>
-    <keybind key="A-f">
-      <action name="Execute" command="~/.config/scripts/fmovies.sh"/>
     </keybind>
     <keybind key="W-w">
       <action name="Execute" command="firefox"/>
@@ -271,9 +265,6 @@
     </keybind>
     <keybind key="A-Space">
       <action name="Execute" command="rofi -show drun -show-icons"/>
-    </keybind>
-    <keybind key="A-y">
-      <action name="Execute" command="~/.config/scripts/youtubesearch.sh"/>
     </keybind>
     <keybind key="A-w">
       <action name="Execute" command="~/.config/scripts/rofipaper.sh"/>
