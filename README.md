@@ -25,3 +25,4 @@ yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo 
 
 ![image](https://github.com/user-attachments/assets/3cbb2f27-2e53-486d-9f65-b82deda79e23)
 
+big thanks to the people over at labwc. this is a very special wayland compositor and im a huge fan. glod bless!
