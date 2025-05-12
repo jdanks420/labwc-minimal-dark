@@ -1,0 +1,139 @@
+configuration {
+  font: "Hack Nerd Font 19";
+  sidebar-mode: false;
+  /* keys have to be unbound before they can be reused */
+  kb-accept-entry: "Ctrl+m,Return,KP_Enter";
+  kb-remove-to-eol: "";
+  kb-remove-char-back: "BackSpace,Shift+BackSpace";
+  kb-mode-complete: "";
+  /* better vim controls */
+  kb-mode-previous: "H,Ctrl+h,Alt+h";
+  kb-row-down: "J,Ctrl+j,Alt+j,Down";
+  kb-row-up: "K,Ctrl+k,Alt+k,Up";
+  kb-mode-next: "L,Ctrl+l,Alt+l";
+}
+
+* {
+  base: #00000099;
+  foreground: #ffffff;
+  background: #000000ee;
+  highlight: #333333;
+  cursor: #44444445;
+  attention: #ffffff;
+
+  background-color: @background;
+
+  normal-foreground: @foreground;
+  normal-background: @background;
+
+  active-foreground: @attention;
+  active-background: @background;
+
+  urgent-foreground: @attention;
+  urgent-background: @background;
+
+  alternate-normal-foreground: @foreground;
+  alternate-normal-background: @background;
+
+  alternate-active-foreground: @foreground;
+  alternate-active-background: @background;
+
+  alternate-urgent-foreground: @attention;
+  alternate-urgent-background: @background;
+
+  selected-normal-foreground: @foreground;
+  selected-normal-background: @cursor;
+
+  selected-active-foreground: @attention;
+  selected-active-background: @cursor;
+
+  selected-urgent-foreground: @attention;
+  selected-urgent-background: @cursor;
+
+  spacing: 0;
+  sidebar-mode: false;
+}
+#window {
+  background-color: #000000;
+  border: 0;
+  padding: 10;
+  margin: 0;
+  fullscreen: false;
+}
+#mainbox {
+  border:  0;
+  padding: 30;
+  margin: 0;
+  spacing: 1;
+}
+#inputbar {
+  children:   [ entry ];
+  spacing:    0;
+  text-color: @normal-foreground;
+  padding:    0px 0px 0px 0px;
+}
+#prompt {
+  spacing:    0;
+  text-color: @foreground;
+}
+#entry {
+  spacing:    0;
+  text-color: @normal-foreground;
+  placeholder: "run.. ";
+  placeholder-color: @cursor;
+}
+#case-indicator {
+  spacing:    0;
+  text-color: @normal-foreground;
+}
+#textbox-prompt-colon {
+  expand:     false;
+  str:        "> ";
+  margin:     0px 0em 0em 0em;
+  text-color: @foreground;
+}
+#listview {
+  border:       0px 0px 0px 0px;
+  border-color: @cursor;
+  scrollbar:    false;
+  fixed-height: 0;
+  spacing:      0px;
+  padding:      0;
+  dynamic:      true;
+}
+#element.normal.normal {
+  background-color: @normal-background;
+  text-color:       @normal-foreground;
+}
+#element.normal.urgent {
+  background-color: @urgent-background;
+  text-color:       @urgent-foreground;
+}
+#element.normal.active {
+  background-color: @active-background;
+  text-color:       @active-foreground;
+}
+#element.selected.normal {
+  background-color: @selected-normal-background;
+  text-color:       @selected-normal-foreground;
+}
+#element.selected.urgent {
+  background-color: @selected-urgent-background;
+  text-color:       @selected-urgent-foreground;
+}
+#element.selected.active {
+  background-color: @selected-active-background;
+  text-color:       @selected-active-foreground;
+}
+#element.alternate.normal {
+  background-color: @alternate-normal-background;
+  text-color:       @alternate-normal-foreground;
+}
+#element.alternate.urgent {
+  background-color: @alternate-urgent-background;
+  text-color:       @alternate-urgent-foreground;
+}
+#element.alternate.active {
+  background-color: @alternate-active-background;
+  text-color:       @alternate-active-foreground;
+}
