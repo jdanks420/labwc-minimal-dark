@@ -1,5 +1,0 @@
-waybar &
-swww-daemon &&
-kanshi >/dev/null 2>&1 &
-dunst >/dev/null 2>&1 &
-/usr/lib/xfce-polkit/xfce-polkit &
