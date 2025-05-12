@@ -1,7 +1,7 @@
 # labwc-minimal-dark
 minimal dark mode for labwc
 
-you will need these things
+you will need these things:
 ```
 yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo swww nwg-look materia-gtk-theme clarity-icon-theme mpg123 openbox-themes dunst xfce-polkit
 ```
