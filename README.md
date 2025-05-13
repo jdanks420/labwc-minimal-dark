@@ -14,7 +14,7 @@
 
 as a keyboard focused user i have made a keybind scheme for easy memorization and comfort
 
-### CTRL + Arrows
+### Ctrl + Arrows
     > this controls the window snapping maintaining gaps
 
 ### Super + Arrows/1-9
