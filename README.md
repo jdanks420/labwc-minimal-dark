@@ -2,6 +2,12 @@
 
 [NOTICE THIS CONFIG UPLOAD IS A WORK IN PROGRESS IVE HAD TO EDIT AND HIDE SOME THINGS]
 
+instructions:
+     download the zip
+![image](https://github.com/user-attachments/assets/5c6eab28-1899-4d94-b54a-ad500aa62829)
+
+     extract the zip and copy into ~/.config
+
 # minimal dark mode for labwc
 
 as a keyboard focused user i have made a keybind scheme for easy memorization and comfort
