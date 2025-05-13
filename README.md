@@ -1,4 +1,4 @@
-# labwc-minimal-dark
+# labwc-minimal-dark (dabwc)
 
 [NOTICE THIS CONFIG UPLOAD IS A WORK IN PROGRESS IVE HAD TO EDIT AND HIDE SOME THINGS]
 
