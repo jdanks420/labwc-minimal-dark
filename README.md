@@ -11,6 +11,7 @@ as a keyboard focused user i have made a keybind scheme for easy memorization an
     this is very easy simply click the green code button 
     and download as a zip. extract it and paste the contents into ~/.config.
     then run this command:
+    
     chmod +x ~/.config/scripts/*
 
 
