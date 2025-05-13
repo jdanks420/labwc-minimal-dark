@@ -13,7 +13,10 @@ as a keyboard focused user i have made a keybind scheme for easy memorization an
     > this controls workspace navigations
 
 ### Super + Shift + 1-9
-     > controls send to workspace {x}
+    > controls send to workspace {x}
+
+### Alt + Tab
+    > the brains of the operation, switch focus between windows
 
 ## other keybinds
 ```
@@ -22,7 +25,14 @@ super + space     ghostty
 super + n         nemo
 alt + r           yazi
 alt + s           search startpage
-alt + w           wallpaper swticher
+alt + w           rofi wallpaper switcher
+alt + q           kill window
+alt + n/m         volume down/up
+alt + p           screenshot into swappy
+alt + z           maximize window with gaps
+
+
+
  
 ```
 # you will need these things:
