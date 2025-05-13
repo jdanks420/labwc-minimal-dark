@@ -30,10 +30,6 @@ alt + q           kill window
 alt + n/m         volume down/up
 alt + p           screenshot into swappy
 alt + z           maximize window with gaps
-
-
-
- 
 ```
 # you will need these things:
 ```
