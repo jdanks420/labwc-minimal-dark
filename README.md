@@ -15,6 +15,16 @@ as a keyboard focused user i have made a keybind scheme for easy memorization an
 ### Super + Shift + 1-9
      > controls send to workspace {x}
 
+## other keybinds
+```
+alt + space       rofi
+super + space     ghostty
+super + n         nemo
+alt + r           yazi
+alt + s           search startpage
+alt + w           wallpaper swticher
+ 
+```
 # you will need these things:
 ```
 yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo swww nwg-look materia-gtk-theme clarity-icon-theme mpg123 openbox-themes dunst xfce-polkit
