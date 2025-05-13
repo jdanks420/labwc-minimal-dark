@@ -6,16 +6,6 @@
 
 as a keyboard focused user i have made a keybind scheme for easy memorization and comfort
 
-#### installation
-
-    this is very easy simply click the green code button 
-    and download as a zip. extract it and paste the contents into ~/.config.
-    
-    then run this command:
-    
-    chmod +x ~/.config/scripts/*
-
-
 ### CTRL + Arrows
     > this controls the window snapping maintaining gaps
 
@@ -41,6 +31,15 @@ alt + n/m         volume down/up
 alt + p           screenshot into swappy
 alt + z           maximize window with gaps
 ```
+#### installation
+
+    this is very easy simply click the green code button 
+    and download as a zip. extract it and paste the contents into ~/.config.
+    
+    then run this command:
+    
+    chmod +x ~/.config/scripts/*
+
 # you will need these things:
 ```
 yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo swww nwg-look materia-gtk-theme clarity-icon-theme mpg123 openbox-themes dunst xfce-polkit
