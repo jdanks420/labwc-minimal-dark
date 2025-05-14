@@ -58,7 +58,7 @@ yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo 
     
     chmod +x ~/.config/scripts/*
 ## gtk theme notice
-if you would like the gtk theme i use in this rice and you have installed all the things just open nwg-look and pick Materia-dark-compact
+if you would like the gtk theme/icons i use in this rice and you have installed all the things just open nwg-look pick Materia-dark-compact and clarity-icons
 
 # thanks buds!
 big thanks to the people over at labwc. this is a very special wayland compositor and im a huge fan. god bless!
