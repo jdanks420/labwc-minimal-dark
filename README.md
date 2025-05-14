@@ -49,7 +49,7 @@ alt + z           maximize window with gaps
 ```
 yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo nemo-fileroller swww nwg-look materia-gtk-theme clarity-icon-theme mpg123 openbox-themes dunst xfce-polkit
 ```
-#### installation
+## installation
 terminal users:
 ```
 cd .config && git clone https://github.com/jdanks420/labwc-minimal-dark && chmod +x ~/.config/scripts/*
