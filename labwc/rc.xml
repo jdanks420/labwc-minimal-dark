@@ -245,9 +245,6 @@
     <keybind key="W-Space">
       <action name="Execute" command="ghostty"/>
     </keybind>
-    <keybind key="W-m">
-      <action name="Execute" command="~/.config/scripts/rofimusic.sh"/>
-    </keybind>
     <keybind key="A-p">
       <action name="Execute" command="~/.config/scripts/swappy.sh"/>
     </keybind>
