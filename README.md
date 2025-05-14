@@ -2,6 +2,10 @@
 
 [NOTICE THIS CONFIG UPLOAD IS A WORK IN PROGRESS IVE HAD TO EDIT AND HIDE SOME THINGS]
 
+    so heres the deal, i like dark mode. i like using my keyboard to do everything. so heres my config!
+    i dont keep many modules on my waybar bc i would rather check my resources in something like glances.
+    like having all that stuff in the bar is crazy to me. im calling this rice "dabwc" lmao. its fun
+
 # minimal dark mode for labwc
 
 
@@ -51,6 +55,8 @@ yay -S labwc rofi waybar yazi nemo helix ghostty firefox slurp grim swappy nemo 
     then run this command:
     
     chmod +x ~/.config/scripts/*
+## gtk theme notice
+if you would like the gtk theme i use in this rice and you have installed all the things just open nwg-look and pick Materia-dark-compact
 
 # thanks buds!
 big thanks to the people over at labwc. this is a very special wayland compositor and im a huge fan. god bless!
