@@ -1,12 +1,5 @@
-# labwc-minimal-dark (dabwc)
 
-[NOTICE THIS CONFIG UPLOAD IS A WORK IN PROGRESS]
-```
-    >so heres the deal, i like dark mode. i like using my keyboard to do everything. so heres my config!
-    >i dont keep many modules on my waybar bc i would rather check my resources in something like glances.
-    >like having all that stuff in the bar is crazy to me. im calling this rice "dabwc" lmao. its fun
-```
-# minimal dark mode for labwc
+# minimal dark mode for labwc (dabwc)
 
 
 ### the screenshot section less gooo
