@@ -15,6 +15,8 @@
 ![image](https://github.com/user-attachments/assets/97a2ad79-0f56-420d-be4c-281f6d1a9910)
 ### chill high contrast vibes 😎
 ![image](https://github.com/user-attachments/assets/3cbb2f27-2e53-486d-9f65-b82deda79e23)
+### heres the wallpaper
+![greygreenblank](https://github.com/user-attachments/assets/d9fc179d-4afd-473d-bd61-ffde37497e66)
 
 as a keyboard focused user i have made a keybind scheme for easy memorization and comfort
 
