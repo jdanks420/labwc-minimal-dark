@@ -40,7 +40,7 @@ alt + z           maximize window with gaps
 ```
 # you will need these things:
 ```
-yay -S git labwc rofi-wayland waybar yazi nemo helix ghostty firefox slurp grim swappy nemo nemo-fileroller swww nwg-look materia-gtk-theme clarity-icon-theme mpg123 openbox-themes dunst xfce-polkit
+yay -S git labwc rofi-wayland waybar yazi nemo helix ghostty firefox slurp grim swappy nemo nemo-fileroller swww nwg-look materia-gtk-theme clarity-icon-theme openbox-themes dunst xfce-polkit
 ```
 ## installation
 terminal users:
