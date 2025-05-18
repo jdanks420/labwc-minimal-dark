@@ -42,11 +42,6 @@ alt + z           maximize window with gaps
 ```
 yay -S git labwc rofi-wayland waybar yazi nemo helix ghostty firefox slurp grim swappy nemo nemo-fileroller swww nwg-look materia-gtk-theme clarity-icon-theme openbox-themes dunst xfce-polkit
 ```
-## installation
-terminal users:
-```
-cd .config && git clone https://github.com/jdanks420/labwc-minimal-dark ~/.config && chmod +x ~/.config/scripts/*
-```
 ## gtk theme notice
 if you would like the gtk theme/icons i use in this rice and you have installed all the things just open nwg-look pick Materia-dark-compact and clarity-icons
 
